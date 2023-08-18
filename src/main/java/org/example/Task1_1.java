@@ -10,5 +10,6 @@ public class Task1_1 {
     }
     public static int remainder(int a, int b) {
         return a % b;
+        return a;
     }
 }
